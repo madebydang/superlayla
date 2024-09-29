@@ -11,6 +11,9 @@ function App() {
         </p>
         <div>
           <h1>Hello World!!!</h1>
+          <p>
+          This is Layla Sterling, a super smart robot. She is here to help you with your tasks.
+        </p>
         </div>
         <a
           className="App-link"
